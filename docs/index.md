@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 16 Home: A Conversational Interface for Exploring Multimodel Forest Science Data
+# Team 16: A Conversational Interface for Exploring Multimodel Forest Science Data
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
