@@ -127,28 +127,27 @@ What would count as progress:
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
-*Would facilitate multiple analyses on the linkage between forest microclimate and sap flow that would be a long and cumbersome process using only traditional data filtering methods.
+* Would facilitate multiple analyses on the linkage between forest microclimate and sap flow that would be a long and cumbersome process using only traditional data filtering methods.
 
 People who could use this:
-*Investigators on the specific research project, but it would also serve as illustarative examples for other trying to build a similar workflow.
+* Investigators on the specific research project, but it would also serve as illustarative examples for other trying to build a similar workflow.
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "data exploration"
-    Provide a snapshot showing some initial data patterns. 
 
-    Add 2-4 promising data sources (links +1-line notes)    
+Microclimate and sap flow data from an ecophysiology experiment in the tropical montane cloud forests of Costa Rica (Gotsch et al.)
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 
 *Snapshot showing initial data patterns.*
 
-Promising data sources:
+<!-- Promising data sources: -->
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+<!-- - [Data source 1](#): ... -->
+<!-- - [Data source 2](#): ... -->
+<!-- - [Data source 3](#): ... -->
+<!-- - [Data source 4](#): ... -->
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
