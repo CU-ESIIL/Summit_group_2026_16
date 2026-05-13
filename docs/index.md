@@ -62,7 +62,7 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 | -------- | ---- | ---- | ---- |
-|Laura Dempsey| National Laboratory of the Rockies|Laura.Dempsey@nlr.gov|LCHdempsey|
+|Laura Dempsey| National Laboratory of the Rockies|Laura.Dempsey@nlr.gov|LCHDempsey|
 | | | | |
 | | | | |
 
