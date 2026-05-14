@@ -132,32 +132,26 @@ People who could use this:
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 ![Exploration figure](assets/explorations/explore_data_plot2.png)
 
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
+## Our Methods 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
 ### Steps in Our Learning Process
 - Learn how to interact with the Cyverse - Github - Roo - OpenAI Model workflow
 - Develop a specialized AGENTS.MD file using Claude and team member edits
 - Deploy the AGENTS.MD file and evaluate its ability to serve as conversational interface for exploring patterns and trends 
 
-### Challenges identified
-- Team familiarity with the Cyverse - Github - Roo - OpenAI Model workflow
-
 ### Visuals
 ![Method or workflow visual](assets/figures/figure1.png)
 
+### Our Challenges
+- Team familiarity with the Cyverse - Github - Roo - OpenAI Model workflow
+
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+Headline 1 — Foliar water uptake is pervasive: Branches spend 33% of their time absorbing water via their leaves
 
-...
+Headline 2 — Substantial variablity in foliar water uptake across and within trees
 
-Headline 2 — change/trend/contrast
-
-...
-
-Headline 3 — implication for practice or policy
-
-...
+Headline 3 — 
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
