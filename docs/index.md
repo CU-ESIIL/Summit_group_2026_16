@@ -147,11 +147,13 @@ People who could use this:
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — Foliar water uptake is pervasive: Branches spend 33% of their time absorbing water via their leaves
+**Headline 1**: Foliar water uptake is pervasive - Branches spend 33% of their time absorbing water via their leaves
 
-Headline 2 — Substantial variablity in foliar water uptake across and within trees
+**Headline 2**: Substantial variablity in foliar water uptake across and within trees
 
-Headline 3 — 
+**Headline 3**:  Several microclimatic factors drive foliar water uptake (FWU).
+- VPD had a significant and negative (R = -0.497) relationship on FWU
+- RH and Leaf Wetness exhibited positive relationships (R = 0.491 and R = 0.458, respectively)
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
@@ -167,11 +169,10 @@ Headline 3 —
 ### Figure 4
 ![Story visual](assets/figures/main_result4.png)
 
-
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
-
 Next steps: 
 - Take our expanded understanding of AI agent development to other research workflows on-going and planned with our labs.
+- Specific to the study of foliar water uptake, we need to conduct a multivariate analysis of microclimatic drivers.
 
 ## Cite & Reuse { #cite-reuse }
 
