@@ -147,11 +147,12 @@ People who could use this:
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-**Headline 1**: Foliar water uptake is pervasive - Branches spend 33% of their time absorbing water via their leaves
+**Headline 1**: Foliar water uptake is pervasive - Branches spend 33% of their time absorbing water via their leaves. There was also substantial variablity in foliar water uptake across and within trees.
 
-**Headline 2**: Substantial variablity in foliar water uptake across and within trees
+**Headline 2**: Several microclimatic factors drive foliar water uptake (FWU). VPD had a significant and negative (R = -0.497) relationship on FWU, while RH and Leaf Wetness exhibited positive relationships (R = 0.491 and R = 0.458, respectively).
 
-**Headline 3**:  Several microclimatic factors drive foliar water uptake (FWU). VPD had a significant and negative (R = -0.497) relationship on FWU, while RH and Leaf Wetness exhibited positive relationships (R = 0.491 and R = 0.458, respectively).
+**Headline 3**: We have detected a clear linkage between branch-level foliar water uptake and trunk-level negative sap flux velocity which suggests that absorbed cloud water can support whole tree rehydration. This has been suggested in models but hasn't been shown empirically as far as we are aware.
+
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
