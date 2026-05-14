@@ -167,6 +167,12 @@ People who could use this:
 ### Figure 4
 ![Story visual](assets/figures/main_result4.png)
 
+### Figure 5
+![Story visual](assets/figures/main_result5.png)
+
+### Figure 6
+![Story visual](assets/figures/main_result6.png)
+
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 Next steps: 
 - Take our expanded understanding of AI agent development to other research workflows on-going and planned with our labs.
