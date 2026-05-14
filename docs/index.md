@@ -133,25 +133,16 @@ People who could use this:
 ![Exploration figure](assets/explorations/explore_data_plot2.png)
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
-
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_16/tree/main/code){ .md-button }
 
-Methods/technologies we are testing:
-
-| Method or technology | What we tested | Early note |
-|---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+- Learn how to interact with the Cyverse - Github - Roo - OpenAI Model workflow
+- Develop a specialized AGENTS.MD file using Claude and team member edits
+- Deploy the AGENTS.MD file and evaluate its ability to serve as conversational interface for exploring patterns and trends 
 
 ### Challenges identified
 
-- ...
-- ...
+- Team familiarity with the Cyverse - Github - Roo - OpenAI Model workflow
+
 
 ### Visuals
 
