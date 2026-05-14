@@ -132,17 +132,16 @@ People who could use this:
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 ![Exploration figure](assets/explorations/explore_data_plot2.png)
 
-## Our Methods 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
+## Methodologies 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-### Steps in Our Learning Process
+### Our Steps in Our Learning Process
 - Learn how to interact with the Cyverse - Github - Roo - OpenAI Model workflow
 - Develop a specialized AGENTS.MD file using Claude and team member edits
 - Deploy the AGENTS.MD file and evaluate its ability to serve as conversational interface for exploring patterns and trends 
 
-### Visuals
 ![Method or workflow visual](assets/figures/figure1.png)
 
-### Our Challenges
+### Our Primary Challenge
 - Team familiarity with the Cyverse - Github - Roo - OpenAI Model workflow
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
