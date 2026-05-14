@@ -170,7 +170,7 @@ People who could use this:
 ### Figure 5
 ![Story visual](assets/figures/main_result5.png)
 
-### Figure 6
+## Novel and Major Finding
 ![Story visual](assets/figures/main_result6.png)
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
