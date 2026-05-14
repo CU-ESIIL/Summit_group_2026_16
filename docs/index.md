@@ -130,7 +130,7 @@ People who could use this:
 - Microclimate and sap flow data from an ecophysiology experiment in the tropical montane cloud forests of Costa Rica (Gotsch et al.)
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
-
+![Exploration figure](assets/explorations/explore_data_plot2.png)
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -191,17 +191,8 @@ Headline 3 — implication for practice or policy
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
-Short term:
-
-- ...
-
-Long term:
-
-- ...
-
-Who should see this next
-
-- ...
+Next steps: 
+- Take our expanded understanding of AI agent development to other research workflows on-going and planned with our labs.
 
 ## Cite & Reuse { #cite-reuse }
 
