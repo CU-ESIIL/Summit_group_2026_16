@@ -87,10 +87,10 @@ public_mode_toggle: true
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_16/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
-* Be reflective and respectful, promote inclusiveness of ideas, and share a focused commitment
+- Be reflective and respectful, promote inclusiveness of ideas, and share a focused commitment
 
 Our decision making strategy:
-* Given our triumvirate, we chose unanimous consent.
+- Given our triumvirate, we chose unanimous consent.
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -102,12 +102,12 @@ Our decision making strategy:
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_16/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 Short term:
-* Achieve successful upload of project data files to Cyverse via Cyberduck and share with team members
-* Develop framework for data harmonization
+- Achieve successful upload of project data files to Cyverse via Cyberduck and share with team members
+- Develop framework for data harmonization
 
 Long term:
-* Acheive successful data harmonization for selected project data
-* Develop framework for conversational interface for data exploration and subset
+- Acheive successful data harmonization for selected project data
+- Develop framework for conversational interface for data exploration and subset
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
 
@@ -127,16 +127,16 @@ What would count as progress:
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
-* Would facilitate multiple analyses on the linkage between forest microclimate and sap flow that would be a long and cumbersome process using only traditional data filtering methods.
+- Would facilitate multiple analyses on the linkage between forest microclimate and sap flow that would be a long and cumbersome process using only traditional data filtering methods.
 
 People who could use this:
-* Investigators on the specific research project, but it would also serve as illustarative examples for other trying to build a similar workflow.
+- Investigators on the specific research project, but it would also serve as illustarative examples for other trying to build a similar workflow.
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "data exploration"
 
-Microclimate and sap flow data from an ecophysiology experiment in the tropical montane cloud forests of Costa Rica (Gotsch et al.)
+- Microclimate and sap flow data from an ecophysiology experiment in the tropical montane cloud forests of Costa Rica (Gotsch et al.)
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 
