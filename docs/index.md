@@ -186,12 +186,6 @@ Long term:
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_16/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
 
-## Team Photo { #team-photo }
-
-![Team photo](assets/team/team_photo.jpg)
-
-*Team members and collaborators who contributed to this project.*
-
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
 Headline 1 — what, where, how much
