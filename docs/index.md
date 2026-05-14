@@ -151,9 +151,7 @@ People who could use this:
 
 **Headline 2**: Substantial variablity in foliar water uptake across and within trees
 
-**Headline 3**:  Several microclimatic factors drive foliar water uptake (FWU).
-- VPD had a significant and negative (R = -0.497) relationship on FWU
-- RH and Leaf Wetness exhibited positive relationships (R = 0.491 and R = 0.458, respectively)
+**Headline 3**:  Several microclimatic factors drive foliar water uptake (FWU). VPD had a significant and negative (R = -0.497) relationship on FWU, while RH and Leaf Wetness exhibited positive relationships (R = 0.491 and R = 0.458, respectively).
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
