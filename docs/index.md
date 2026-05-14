@@ -161,9 +161,9 @@ Headline 3 — implication for practice or policy
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](assets/figures/main_result1.png)
 ![Story visual](assets/figures/main_result2.png)
 ![Story visual](assets/figures/main_result3.png)
+![Story visual](assets/figures/main_result1.png)
 ![Story visual](assets/figures/main_result4.png)
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
