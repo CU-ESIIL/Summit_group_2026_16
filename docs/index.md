@@ -109,20 +109,13 @@ Long term:
 - Acheive successful data harmonization for selected project data
 - Develop framework for conversational interface for data exploration and subset
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
-
-*Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
-
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 Our working question:
-* Can we develop a framework for an AI agent-based conversational interface for exploring patterns and trends in the project data?
+- Can we develop a framework for an AI agent-based conversational interface for exploring patterns and trends in the project data?
 
 What would count as progress:
-* Being able to ask a question to the AI-agent and receive a meaningful query and synthesis
-
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
-
+- Being able to ask a question to the AI-agent and receive a meaningful query and synthesis
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -134,20 +127,10 @@ People who could use this:
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
-
 - Microclimate and sap flow data from an ecophysiology experiment in the tropical montane cloud forests of Costa Rica (Gotsch et al.)
 
 ![Exploration figure](assets/explorations/explore_data_plot.png)
 
-*Snapshot showing initial data patterns.*
-
-<!-- Promising data sources: -->
-
-<!-- - [Data source 1](#): ... -->
-<!-- - [Data source 2](#): ... -->
-<!-- - [Data source 3](#): ... -->
-<!-- - [Data source 4](#): ... -->
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
