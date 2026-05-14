@@ -134,7 +134,7 @@ People who could use this:
 
 ## Methodologies 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-### Our Steps in Our Learning Process
+### Our Steps
 - Learn how to interact with the Cyverse - Github - Roo - OpenAI Model workflow
 - Develop a specialized AGENTS.MD file using Claude and team member edits
 - Deploy the AGENTS.MD file and evaluate its ability to serve as conversational interface for exploring patterns and trends 
